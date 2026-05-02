@@ -1,0 +1,5 @@
+{
+  "max_retry": 2,
+  "timeout_sec": 5,
+  "max_tokens": 200
+}

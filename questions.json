@@ -1,0 +1,19 @@
+[
+  {
+    "question_id": "q1",
+    "question": "Explain Machine Learning",
+    "expected_keywords": [
+      "data",
+      "model",
+      "training"
+    ]
+  },
+  {
+    "question_id": "q2",
+    "question": "What is AI?",
+    "expected_keywords": [
+      "intelligence",
+      "automation"
+    ]
+  }
+]
